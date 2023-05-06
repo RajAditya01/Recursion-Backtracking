@@ -7,8 +7,8 @@ Recursion is a programming technique where a function calls itself to solve a pr
 Backtracking, on the other hand, is a systematic way of exploring all possible solutions by incrementally building a solution candidate and intelligently pruning the search space when it becomes clear that it cannot lead to a valid solution. Backtracking is often used in conjunction with recursion to efficiently solve problems that involve finding combinations, permutations, or satisfying certain constraints.
 #
 Both recursion and backtracking are fundamental techniques used in various fields, including computer science, mathematics, and artificial intelligence.
-#
-Repository Structure
+
+# Repository Structure
 This repository is organized into the following directories:
 #
 Examples: This directory contains a collection of code examples that demonstrate how recursion and backtracking can be applied to solve different problems. Each example typically includes a problem statement, an explanation of the recursive/backtracking approach, and the corresponding implementation in a programming language of your choice.
@@ -19,7 +19,7 @@ Discussions: Engage in insightful discussions about recursion, backtracking, and
 #
 Contributing: This directory contains guidelines on how to contribute to the Recursion and Backtracking repository. If you have an interesting example to share, a useful resource to recommend, or an insightful discussion topic, please refer to the contributing guidelines for detailed instructions.
 #
-Contribution Guidelines
+# Contribution Guidelines
 We welcome contributions from individuals interested in recursion and backtracking. If you would like to contribute, please follow these guidelines:
 #
 Fork the repository to your own GitHub account.
@@ -30,10 +30,10 @@ Submit a pull request, describing the purpose and details of your contribution.
 Participate in any feedback or discussions related to your contribution.
 We appreciate your contributions and strive to make this repository a valuable resource for learning and exploring recursion and backtracking techniques.
 #
-Code of Conduct
+# Code of Conduct
 To maintain a respectful and inclusive environment, we have adopted a Code of Conduct that all contributors are expected to follow. Please familiarize yourself with it before engaging in any activities within this repository.
 #
-Get in Touch
+# Get in Touch
 If you have any questions, suggestions, or concerns, please feel free to open an issue in this repository or reach out to the repository maintainers directly. We are here to support you and make your experience with Recursion and Backtracking as enriching as possible.
 #
 Happy coding and problem-solving with recursion and backtracking!
